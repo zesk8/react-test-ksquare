@@ -1,0 +1,30 @@
+body {
+  background: #fff;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 12px;
+  margin: 10px 0;
+}
+
+.btn {
+  border: 0;
+  color: #333;
+  font-size: 12px;
+  padding: 10px 30px;
+
+  &--aqua {
+    background-color: #79cdd2;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.index {
+  margin: 0 auto;
+  width: 30%;
+}
